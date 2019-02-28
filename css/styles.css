@@ -1,7 +1,4 @@
-* {
-    padding: 0;
-    margin: 0;
-}
+
 
 body{
     width: 100%;
@@ -26,6 +23,10 @@ header {
     min-height: 30px;
 }
 
+* {
+    padding: 0;
+    margin: 0;
+}
 #navbar{
     float: right;
 }
