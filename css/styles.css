@@ -45,7 +45,7 @@ header a:hover {
     width: 500px;
     border-radius: 0px;
     font: 16px Arial, sans-serif;
-    
+
 }
 
 button {
@@ -73,7 +73,7 @@ button {
 }
 
 #footer, #footer a{
-    color: #686868;
+    color: ##D3D3D3;
 }
 
 .right{
